@@ -40,17 +40,17 @@ small {
 #mainNav .nav-link {
 	-webkit-transition: none;
 	font-size: 16pt;
-	font-weight: 200;
+	font-weight: 400;
 	transition: none;
 	padding: 1.5rem;
-	border-bottom: 0.25rem solid rgba(255, 255, 255, 0);
+	border-bottom: 0.2rem solid rgba(255, 255, 255, 0);
 	color: rgba(255, 255, 255, 0.5);
 }
 
 #mainNav .nav-link:hover {
 	color: #ff8200;
 	outline: none;
-	border-bottom: 0.25rem solid #ff8200;
+	border-bottom: 0.2rem solid #ff8200;
 }
 
 #mainNav .nav-link:active {
@@ -60,7 +60,7 @@ small {
 #mainNav .nav-link.active {
 	color: #ff8200;
 	outline: none;
-	border-bottom: 0.25rem solid #ff8200;
+	border-bottom: 0.2rem solid #ff8200;
 }
 
 #mainNav .navbar-brand {
@@ -105,7 +105,7 @@ small {
 	#mainNav.navbar-shrink .nav-link {
 		color: #161616;
 		padding: 1.5rem 1.5rem 1.25rem;
-		border-bottom: 0.25rem solid transparent;
+		border-bottom: 0.2rem solid transparent;
 		color: rgba(255, 255, 255, 0.5);
 	}
 	#mainNav.navbar-shrink .nav-link:hover {
@@ -117,7 +117,7 @@ small {
 	#mainNav.navbar-shrink .nav-link.active {
 		color: #ff8200;
 		outline: none;
-		border-bottom: 0.25rem solid #ff8200;
+		border-bottom: 0.2rem solid #ff8200;
 	}
 }
 
