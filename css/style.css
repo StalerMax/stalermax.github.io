@@ -125,7 +125,7 @@ small {
 /*%%%%%%%%%% ABOUT SECTION %%%%%%%%%%%%%*/
 .Avatar {
  	border-radius: 50%;
-	border: 0.06rem solid #ff8200;
+	border: 0.15rem solid #ff8200;
 }
 
 .about-section {
@@ -169,9 +169,11 @@ small {
 
 video {
 	background-color: transparent;
+	outline: none;
 	height: 82%;
 	width: 100%;
 }
+
 
 
 .img-fluid {
