@@ -28,6 +28,7 @@ small {
 #mainNav {
 	min-height: 56px;
 	background-color: #080808;
+	padding-bottom: 0;
 }
 
 #mainNav .navbar-toggler {
