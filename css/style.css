@@ -397,4 +397,29 @@ a:hover{
 	font-weight: 400;
 }
 
+.btn-disabled{
+	font-size: 15px;
+	border: 0.08rem solid grey;
+	color: grey;
+	background-color: #171717;
+	
+	padding: 0.7rem 0.7rem;
+}
+
+.btn-disabled:hover
+{
+	font-weight: 400;
+	color: grey;
+	background-color: #171717;
+	text-decoration: none;
+	cursor: auto;
+}
+
+@media (min-width: 992px) {
+
+	.btn-disabled{
+		margin-left: 1.5rem;
+	}
+}
+
 
