@@ -1,5 +1,5 @@
 /*%%%%%%%%%%% GENERAL CLASSES %%%%%%%%%%%%%*/
-a {
+a:focus {
 	color: #ff8200;
 }
 
