@@ -1,4 +1,8 @@
 /*%%%%%%%%%%% GENERAL CLASSES %%%%%%%%%%%%%*/
+a {
+	color: #ff8200;
+}
+
 body {
 	width: 100%;
 }
@@ -173,6 +177,12 @@ video {
 	outline: none;
 	height: 82%;
 	width: 100%;
+	padding: 0;
+}
+
+video[poster] {
+
+	object-fit: fill;
 }
 
 
@@ -198,7 +208,7 @@ video {
 
 .icon-col {
 	padding: 0;
-	margin: 1rem 1.7rem 0;
+	margin: 1rem 1.6rem 0;
 }
 
 /*GAMES SECTION*/
