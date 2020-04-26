@@ -167,6 +167,20 @@ small {
 .about-section .social a:active {
 	color: #fff;
 }
+
+/*%%%%%%%%%%%% PROJECTS NAVBAR %%%%%%%%%*/
+.projects-navbar {
+	padding: 0.5rem 0rem;
+	margin-bottom: 4rem;
+	background-color: #080808;
+	border: 0.08rem solid rgba(255, 255, 255, 0.5);
+	border-radius: 5px;
+}
+
+.projects-navbar .navbar-link {
+	margin: 0 2rem;
+	color: rgba(255, 255, 255, 0.5);
+}
   
 
 /*UNITY AND UNREAL PROJECTS SECTION*/
