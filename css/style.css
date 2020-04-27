@@ -253,11 +253,11 @@ video[poster] {
   font-size: 90%;
 }
 
-  .games-section .project-text hr {
-    border-color: #ff8200;
-    border-width: .15rem;
-    width: 30%;
-  }
+.games-section .project-text hr {
+border-color: #ff8200;
+border-width: .15rem;
+width: 30%;
+}
 
 @media (min-width: 992px) {
   .games-section .project-text {
@@ -339,12 +339,12 @@ a {
 	color: #ff8200;
 }
 
-a:hover{
-	color: #ff8200;
-	text-decoration: underlined;
+a:hover, a h4:hover {
+	color: orangered;
 }
+
 	
-.download-play-button{
+.download-play-button {
 	display:none;
 }
 
@@ -362,7 +362,6 @@ a:hover{
 
 	.download-play-button:hover
 	{
-		font-weight: 500;
 		color: #171717;
 		background-color: #ff8200;
 		text-decoration: none;
@@ -387,7 +386,6 @@ a:hover{
 
 .see-more-button:hover
 {
-	font-weight: 500;
 	color: #171717;
 	background-color: #ff8200;
 	text-decoration: none;
@@ -411,7 +409,6 @@ a:hover{
 
 .resume-button:hover
 {
-	font-weight: 500;
 	color: #171717;
 	background-color: #ff8200;
 	text-decoration: none;
